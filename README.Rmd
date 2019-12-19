@@ -29,64 +29,68 @@ Responde según la referencia señalada arriba. En caso de que prefieras usar ot
 
 * ¿Cuál es la unidad fundamental en biogeografía? Defínela.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: ámbito geográfico, es el espacio que ocupa una especie en función de los procesos ecológicos y los eventos históricos que lo moldean.
 
-* Si los individuos de una determinada especie presentan un patrón disperso en el borde de su ámbito o rango, la forma de la línea que delimite dicho borde dependerá de ...
+* Si los individuos de una determinada especie presentan un patrón disperso en el borde de su ámbito o rango, la forma de la línea que delimite dicho borde dependerá de la escala.
 
 * El límite del ámbito de una especie normalmente es dinámico. Pon un ejemplo de una especie en República Dominicana cuyo límite de ámbito entiendas haya cambiado en tiempos históricos, y cita las razones que sustentan tu respuesta.
 
     Tu respuesta, aquí: ...
+    
 
 * Los tipos de mapas de rango de una especie son de límite (o de área), de puntos, isolíneas y, relacionado con el último, las imágenes rásters. Explica en menos de 200 caracteres cada uno.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Los mapas de área abarcan una superficie con perimetro definido, los de punto lugares en concreto. El de isolineas marca lugares con las mismas características y las imágenes ráster presentan la distribución en el momento.
 
 * Malthus aseguraba que la disponibilidad de recursos limita el crecimiento de una población. ¿De qué depende la disponibilidad de recursos entonces?
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: De las variables que definen el nicho ecológico de los recursos.
 
 * Escribe al menos dos formas de definir el nicho.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Espacio de recursos ambientales. La tolerancia ambiental.
 
 * Diferencia entre nicho potencial y nicho efectivo.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: que en el nicho potencial no se presenta competencia ni depredador, mientras que en el efectivo si.
 
 * Describe en menos de 200 caracteres el experimento de Connell con los percebes.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Connel estudió los factores ambientales que limitan el alcance de un percebe en la zona intermareal. El buscó caracterizar variables importantes de nichos para explicar si distribución
 
 * El rango geográfico de una especie es un reflejo de su nicho. 
 
     Tu respuesta, aquí: ...
 
-* El nicho multidimensional (en el sentido de Hutchinson) provee un marco concpetual para comprender el papel de los factores limitantes del ambiente. Sin embargo, las variables de dicho espacio multidimensional no son suficientes para explicar la distribución y la abundancia de una especie. Cita dos complicaciones que se superponen a los factores limitantes que influyen en la distribución.
+* El nicho multidimensional (en el sentido de Hutchinson) provee un marco conceptual para comprender el papel de los factores limitantes del ambiente. Sin embargo, las variables de dicho espacio multidimensional no son suficientes para explicar la distribución y la abundancia de una especie. Cita dos complicaciones que se superponen a los factores limitantes que influyen en la distribución.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: las condiciones ambientales no son igualmente favorables o desfavorables para una especie en todos los lugares. Algunos lugares sólo son habitados de forma intermitente.
 
 * ¿Qué es el patrón agregado en la distribución espacial de la abundancia de una especie?
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Es cuando los patrones de abundancia son extremadamente homogéneos.
 
 * Los siguientes tipos de factores limitan el rango geográfico de las especies: de tipo físico, alteraciones (distrubios), el factor tiempo y la interacción entre organismos. Pon un ejemplo de cada uno. En cada ejemplo indica cuál es exactamente el factor limitante y el organismo afectado. Si conoces o quieres localizar ejemplos locales, perfecto.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: De tipo fisico: un ejemplo son los bosques de coníferas, que estan limitados por la temperatura y la altitud.
+    Alteraciones: Cuando las zonas se ven afectadas por incendios que destruyen el habitat de las especies.
+    Tiempo: Algunas especies se ven afectadas por los cambios en el tiempo, como cuando es invadida por un depredador, el cual las va exterminando a medida que pasa el tiempo.
+    Interacción entre organismos: Esta puede ser de competencia, depredación o mutualismo.
 
 * Explica la ley del mínimo de Liebig.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Los procesos biológicos están limitados por un solo factor: el que tiene menos oferta en relación con la demanda, o el que el organismo tiene la menor tolerancia.
 
 * Define cada uno de estos conceptos (menos de 150 caracteres cada uno): xerófitos, desertificación, competencia, alelopatía, 
 
     Tus respuestas, aquí: 
-    Xerófitos: ...
-    Desertificación: ...
-    Competencia: ...
-    Alelopatía: ...
-    Depredación: ...
-    Mutualismo: ...
-    Competencia difusa: ...
+    Xerófitos: es una especie de planta que tiene adaptaciones para sobrevivir en un ambiente con poco agua líquida, tales como un desierto o un hielo o región cubierta de nieve en la Alpes o el Ártico . 
+    Desertificación: es la degradación de las tierras de zonas áridas, semiáridas y subhúmedas secas resultante de diversos factores, tales como las variaciones climáticas y las actividades humanas.
+    Competencia: es una interacción biológica entre seres vivos en la cual la aptitud o adecuación biológica de uno es reducida a consecuencia de la presencia del otro.
+    Alelopatía:  es un fenómeno biológico por el cual un organismo produce uno o más compuestos bioquímicos que influyen en el crecimiento, supervivencia o reproducción de otros organismos.
+    Depredación: es un tipo de interacción biológica en la que un individuo de una especie animal (el predador o depredador) caza a otro individuo (la presa) para subsistir.
+    Mutualismo: es una interacción biológica, entre individuos de diferentes especies, en donde ambos se benefician y mejoran su aptitud biológica.
+    Competencia difusa: son aquellas situaciones en las que los rangos están estructurados por interacciones bióticas más difusas e indirectas.
 
 Sobre los patrones de distribución, los autores del libro de texto prefieren añadir el adjetivo "derivados", debido a que la gran variedad de patrones que se estudian en biogeografía son función del ámbito geográfico, que es lo que consideran en última instancia como el tema central de la biogeografía. Los denominados patrones derivados del ámbito geográfico se refieren a su dinámica, su "areografía" o geometría de su ámbito, ecogeografía, patrones de múltiples especies. 
 
@@ -96,14 +100,16 @@ Sobre los patrones de distribución, los autores del libro de texto prefieren a�
 
 * ¿Qué es la areografía?
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Estudios sobre la variación en el tamaño, la forma y los patrones de superposición de los rangos geográficos.
 
 * La ecogeografía consiste en el estudio de los patrones ecogeográficos, que son las variaciones fenotípicas (tradicionalmente, rasgos morfológicos) a lo largo del ámbito geográfico de una especie, a los que comúnmente se les denominaba "reglas". Además de la morfología, ¿qué otros rasgos de las especies se estudian como patrones ecogeográficos?
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Variaciones fisiológicas, genéticas y de comportamiento.
 
 * Dentro de los patrones de múltiples especies o multiespecies es común el estudio de los ámbitos geográficos solapados o *hotspots* y las distribuciones espaciales exclusivas. Define ambos conceptos.
 
-    Tu respuesta, aquí: ...
+    Tu respuesta, aquí: Los hotspots de diversidad de especies son lugares donde se solapan muchos ámbitos geográficos con independencia del área total que ocupan.
+  
+Los hotspots de endimicidad (importantes para la conservación) son aquellos donde se solapan varios ámbitos geográficos de especies de distribución restringida.
 
 # Referencias
